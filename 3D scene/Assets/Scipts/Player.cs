@@ -6,9 +6,11 @@ public class Player : MonoBehaviour {
 	public float turningSpeed = 80;
 
 	void Update() {
+		// set the horizontal rotation
 		float horizontal = Input.GetAxis("Horizontal") * turningSpeed * Time.deltaTime;
 		transform.Rotate(0, horizontal, 0);
 		
+		// set the Vertical rotation
 		float vertical = Input.GetAxis("Vertical") * movementSpeed * Time.deltaTime;
 		transform.Translate(0, 0, vertical);
 	}

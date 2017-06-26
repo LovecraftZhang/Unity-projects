@@ -7,10 +7,12 @@ public class MouseAimCamera : MonoBehaviour {
 	Vector3 offset;
 	
 	void Start() {
+		// initialize offset
 		offset = target.transform.position - transform.position;
 	}
 	
 	void LateUpdate() {
+		// access thе horizontal axis οf thе mouse
 		float horizontal = Input.GetAxis("Mouse X") * rotateSpeed;
 		target.transform.Rotate(0, horizontal, 0);
 
