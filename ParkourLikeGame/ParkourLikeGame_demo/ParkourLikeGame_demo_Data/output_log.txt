@@ -1,0 +1,1292 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Lovecraft\Downloads\WorkSpace\ParkourLikeGame_demo_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.815634 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 16a0 -> priority: 1 
+  Thread -> id: 378c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.544545 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 599.
+Total: 0.172419 ms (FindLiveObjects: 0.028347 ms CreateObjectMapping: 0.011397 ms MarkObjects: 0.125954 ms  DeleteObjects: 0.006136 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.359744 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.151671 ms (FindLiveObjects: 0.021041 ms CreateObjectMapping: 0.010520 ms MarkObjects: 0.116602 ms  DeleteObjects: 0.002630 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.351853 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.151963 ms (FindLiveObjects: 0.021625 ms CreateObjectMapping: 0.010520 ms MarkObjects: 0.116602 ms  DeleteObjects: 0.002922 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.323214 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.163652 ms (FindLiveObjects: 0.022502 ms CreateObjectMapping: 0.010812 ms MarkObjects: 0.126830 ms  DeleteObjects: 0.002922 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336949 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.159561 ms (FindLiveObjects: 0.023378 ms CreateObjectMapping: 0.011105 ms MarkObjects: 0.121570 ms  DeleteObjects: 0.003214 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336365 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.156054 ms (FindLiveObjects: 0.023378 ms CreateObjectMapping: 0.010520 ms MarkObjects: 0.118648 ms  DeleteObjects: 0.002922 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.345716 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.161899 ms (FindLiveObjects: 0.023086 ms CreateObjectMapping: 0.010520 ms MarkObjects: 0.124200 ms  DeleteObjects: 0.003214 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerCollision.OnCollisionEnter (UnityEngine.Collision collisionInfo) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
