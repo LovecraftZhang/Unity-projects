@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -26,5 +26,6 @@ public class PlayerMovement : MonoBehaviour {
         if (rb.position.y < -2.5f){
             FindObjectOfType<GameManager>().EndGane();
         }
+        
 	}
 }
