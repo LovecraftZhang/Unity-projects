@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{585E93B9-8BD1-92CE-B625-CEA5AAF3DF75}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Weapon.cs">
+    <Files>
+      <File FileName="Assets/AudioManager.cs" Line="20" Column="9" />
+      <File FileName="Assets/Weapon.cs" Line="60" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2D_220platform_220shotting_220game PreferredExecutionTarget="Unity.Editor" />
+</Properties>
